@@ -1,0 +1,1 @@
+lstm model trying to predict price of aapl stock for next month.
